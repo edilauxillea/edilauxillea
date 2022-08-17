@@ -20,10 +20,10 @@
 <h3>A few things about me</h3>
 
  - ⭐ I'm from India.
- - 🙌 I'm a student, web developer, and designer.
+ - 🙌 I'm a Student, Data Enthusiast and Developer.
  - 🚀 Building value through design.
- - ✨ Currently working on a *NGO website*.
- - ❤️ Learning *React* and *TypeScript*.
+ - ✨ Currently working in a project based on *Natural Language Processing*.
+ - ❤️ Learning *Big Data* and *Mathematical Modelling*.
 
 ---
 
